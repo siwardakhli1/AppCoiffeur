@@ -1,4 +1,4 @@
 package com.example.testunit.controller;
 
-public class Coiffeur {
+public class CoiffeurController {
 }
